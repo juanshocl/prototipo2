@@ -31,7 +31,7 @@ angular.module('prototipoApp')
 
     ]; 
 // Modelo para los tres bloques de contenidos
-//var baseURL='http://lorempixel.com/200/200/'
+var baseURL='http://lorempixel.com/200/200/'
 $scope.contenido=[
 {
    img:baseURL+'people',
