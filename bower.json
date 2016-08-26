@@ -2,11 +2,7 @@
   "name": "prototipo",
   "version": "0.0.0",
   "dependencies": {
-<<<<<<< HEAD
-    "angular": "~1.5.8",
-=======
     "angular": "~1.2.15",
->>>>>>> origin/master
     "json3": "~3.3.1",
     "es5-shim": "~3.1.0",
     "bootstrap": "~3.2.0",
