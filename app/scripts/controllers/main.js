@@ -49,7 +49,7 @@ $scope.contenido=[
    title:'Contáctanos',
    sumario:'#333, Buena vida Online, Plaza Central, Durance, Zip-432167'
 }
-];
+]
 
     
   });

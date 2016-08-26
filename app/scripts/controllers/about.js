@@ -8,8 +8,8 @@
  * Controller of the prototipoApp
  */
 angular.module('prototipoApp')
-  .controller('AboutCtrl', function () {
-    this.awesomeThings = [
+  .controller('AboutCtrl', function ($scope) {
+    $scope.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
       'Karma'

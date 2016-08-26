@@ -35,3 +35,5 @@ $scope.rate = 0;
 $scope.max = 10;
 $scope.isReadonly = false;
     });
+
+
